@@ -28,7 +28,7 @@ Other optional features implemented were:
 
 ### Video Walkthrough
 
-Created with LiceCap and Imgur GIF: ![Walkthrough](https://imgur.com/a/hqUKGSb.gif)
+Created with LiceCap and Imgur GIF: ![Walkthrough](https://imgur.com/a/hqUKGSb.gif) <br>
 
 ### Additional Notes:
 Challenges Encountered
